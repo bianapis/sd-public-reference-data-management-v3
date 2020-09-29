@@ -1,0 +1,39 @@
+{
+  "publicReferenceDataManagementRetrieveActionResponse" : "publicReferenceDataManagementRetrieveActionResponse",
+  "publicReferenceDataManagementRetrieveActionTaskReference" : "SRATR795161",
+  "publicReferenceDataManagementRetrieveActionTaskRecord" : {},
+  "publicReferenceDataManagementOfferedService" : {
+    "publicReferenceDataManagementServiceRecord" : {
+      "publicReferenceDataManagementServicePoliciesandGuidelines" : {
+        "publicReferenceDataManagementServiceEligibility" : "publicReferenceDataManagementServiceEligibility",
+        "publicReferenceDataManagementServicePricingandTerms" : "publicReferenceDataManagementServicePricingandTerms",
+        "publicReferenceDataManagementServiceIntendedUses" : "publicReferenceDataManagementServiceIntendedUses"
+      },
+      "publicReferenceDataManagementServiceType" : "publicReferenceDataManagementServiceType",
+      "publicReferenceDataManagementServiceVersion" : "publicReferenceDataManagementServiceVersion",
+      "publicReferenceDataManagementServiceDescription" : "publicReferenceDataManagementServiceDescription",
+      "publicReferenceDataManagementServiceSchedule" : "publicReferenceDataManagementServiceSchedule"
+    },
+    "publicReferenceDataManagementServiceReference" : "776158"
+  },
+  "publicReferenceDataManagementRetrieveActionRecord" : {
+    "publicReferenceDataManagementPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "publicReferenceDataManagementActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    },
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    }
+  }
+}

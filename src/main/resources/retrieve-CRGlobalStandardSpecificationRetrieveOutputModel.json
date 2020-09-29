@@ -1,0 +1,23 @@
+{
+  "globalStandardSpecificationVersion" : "globalStandardSpecificationVersion",
+  "globalStandardSpecificationInstanceAnalysis" : {
+    "globalStandardSpecificationInstanceAnalysisReport" : {},
+    "globalStandardSpecificationInstanceAnalysisReportType" : "globalStandardSpecificationInstanceAnalysisReportType",
+    "globalStandardSpecificationInstanceAnalysisData" : "globalStandardSpecificationInstanceAnalysisData"
+  },
+  "globalStandardSpecificationServiceProviderReference" : "GSSSR784053",
+  "globalStandardSpecificationUsageLog" : "globalStandardSpecificationUsageLog",
+  "globalStandardSpecificationInstanceReportRecord" : {
+    "globalStandardSpecificationInstanceReportData" : "globalStandardSpecificationInstanceReportData",
+    "globalStandardSpecificationInstanceReport" : {},
+    "globalStandardSpecificationInstanceReportType" : "globalStandardSpecificationInstanceReportType"
+  },
+  "globalStandardSpecificationSelectedOption" : "globalStandardSpecificationSelectedOption",
+  "globalStandardSpecificationDescription" : "globalStandardSpecificationDescription",
+  "globalStandardSpecificationFeedback" : "globalStandardSpecificationFeedback",
+  "globalStandardSpecificationRetrieveActionTaskReference" : "GSSRATR733266",
+  "globalStandardSpecificationParameterType" : "globalStandardSpecificationParameterType",
+  "globalStandardSpecificationRetrieveActionTaskRecord" : {},
+  "globalStandardSpecificationStatus" : "globalStandardSpecificationStatus",
+  "globalStandardSpecificationRetrieveActionResponse" : "globalStandardSpecificationRetrieveActionResponse"
+}

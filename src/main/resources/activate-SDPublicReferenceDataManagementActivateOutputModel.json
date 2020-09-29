@@ -1,0 +1,24 @@
+{
+  "publicReferenceDataManagementServiceConfigurationRecord" : {
+    "publicReferenceDataManagementServiceConfigurationSettingDescription" : "publicReferenceDataManagementServiceConfigurationSettingDescription",
+    "publicReferenceDataManagementServiceConfigurationSettingReference" : "700761",
+    "publicReferenceDataManagementServiceAgreement" : {
+      "publicReferenceDataManagementServiceAgreementReference" : "791202",
+      "publicReferenceDataManagementServiceAgreementTermsandConditions" : "publicReferenceDataManagementServiceAgreementTermsandConditions",
+      "publicReferenceDataManagementServiceUserReference" : "767210"
+    },
+    "publicReferenceDataManagementServiceStatus" : "publicReferenceDataManagementServiceStatus",
+    "publicReferenceDataManagementServiceConfigurationSetup" : {
+      "publicReferenceDataManagementServiceConfigurationParameter" : "publicReferenceDataManagementServiceConfigurationParameter"
+    },
+    "publicReferenceDataManagementServiceSubscription" : {
+      "publicReferenceDataManagementServiceSubscriberReference" : "769192",
+      "publicReferenceDataManagementServiceSubscriberAccessProfile" : "publicReferenceDataManagementServiceSubscriberAccessProfile"
+    }
+  },
+  "publicReferenceDataManagementActivationActionTaskRecord" : {},
+  "publicReferenceDataManagementActivationActionTaskReference" : "SAATR758836",
+  "publicReferenceDataManagementServicingSessionRecord" : {},
+  "publicReferenceDataManagementServicingSessionReference" : "SSSR783215",
+  "publicReferenceDataManagementServicingSessionStatus" : "publicReferenceDataManagementServicingSessionStatus"
+}

@@ -1,0 +1,14 @@
+{
+  "globalReferenceDataVersionNumber" : "globalReferenceDataVersionNumber",
+  "globalReferenceDataPreconditions" : "globalReferenceDataPreconditions",
+  "globalReferenceDataInstanceReference" : "GRDIR773138",
+  "globalReferenceDataInitiateActionReference" : "GRDIAR740335",
+  "globalReferenceDataInstanceStatus" : "globalReferenceDataInstanceStatus",
+  "globalReferenceDataSpecificationSchedule" : "globalReferenceDataSpecificationSchedule",
+  "externalReferenceData" : "externalReferenceData",
+  "externalReferenceDataServiceType" : "externalReferenceDataServiceType",
+  "externalReferenceDataServiceDescription" : "externalReferenceDataServiceDescription",
+  "globalReferenceDataInitiateActionRecord" : {},
+  "externalReferenceDataServiceInputsandOuputs" : "externalReferenceDataServiceInputsandOuputs",
+  "externalReferenceDataServiceWorkProduct" : "externalReferenceDataServiceWorkProduct"
+}

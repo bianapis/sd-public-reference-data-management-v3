@@ -1,0 +1,67 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.SDPublicReferenceDataManagementRetrieveOutputModelPublicReferenceDataManagementRetrieveActionRecordControlRecordPortfolioAnalysis;
+import org.bian.dto.SDPublicReferenceDataManagementRetrieveOutputModelPublicReferenceDataManagementRetrieveActionRecordPublicReferenceDataManagementActivityAnalysis;
+import org.bian.dto.SDPublicReferenceDataManagementRetrieveOutputModelPublicReferenceDataManagementRetrieveActionRecordPublicReferenceDataManagementPerformanceAnalysis;
+
+import javax.validation.Valid;
+  
+/**
+ * SDPublicReferenceDataManagementRetrieveOutputModelPublicReferenceDataManagementRetrieveActionRecord
+ */
+public class SDPublicReferenceDataManagementRetrieveOutputModelPublicReferenceDataManagementRetrieveActionRecord   {
+  private SDPublicReferenceDataManagementRetrieveOutputModelPublicReferenceDataManagementRetrieveActionRecordPublicReferenceDataManagementActivityAnalysis publicReferenceDataManagementActivityAnalysis = null;
+
+  private SDPublicReferenceDataManagementRetrieveOutputModelPublicReferenceDataManagementRetrieveActionRecordPublicReferenceDataManagementPerformanceAnalysis publicReferenceDataManagementPerformanceAnalysis = null;
+
+  private SDPublicReferenceDataManagementRetrieveOutputModelPublicReferenceDataManagementRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis = null;
+
+
+  /**
+   * Get publicReferenceDataManagementActivityAnalysis
+   * @return publicReferenceDataManagementActivityAnalysis
+  **/
+
+  public SDPublicReferenceDataManagementRetrieveOutputModelPublicReferenceDataManagementRetrieveActionRecordPublicReferenceDataManagementActivityAnalysis getPublicReferenceDataManagementActivityAnalysis() {
+    return publicReferenceDataManagementActivityAnalysis;
+  }
+
+  public void setPublicReferenceDataManagementActivityAnalysis(SDPublicReferenceDataManagementRetrieveOutputModelPublicReferenceDataManagementRetrieveActionRecordPublicReferenceDataManagementActivityAnalysis publicReferenceDataManagementActivityAnalysis) {
+    this.publicReferenceDataManagementActivityAnalysis = publicReferenceDataManagementActivityAnalysis;
+  }
+
+
+  /**
+   * Get publicReferenceDataManagementPerformanceAnalysis
+   * @return publicReferenceDataManagementPerformanceAnalysis
+  **/
+
+  public SDPublicReferenceDataManagementRetrieveOutputModelPublicReferenceDataManagementRetrieveActionRecordPublicReferenceDataManagementPerformanceAnalysis getPublicReferenceDataManagementPerformanceAnalysis() {
+    return publicReferenceDataManagementPerformanceAnalysis;
+  }
+
+  public void setPublicReferenceDataManagementPerformanceAnalysis(SDPublicReferenceDataManagementRetrieveOutputModelPublicReferenceDataManagementRetrieveActionRecordPublicReferenceDataManagementPerformanceAnalysis publicReferenceDataManagementPerformanceAnalysis) {
+    this.publicReferenceDataManagementPerformanceAnalysis = publicReferenceDataManagementPerformanceAnalysis;
+  }
+
+
+  /**
+   * Get controlRecordPortfolioAnalysis
+   * @return controlRecordPortfolioAnalysis
+  **/
+
+  public SDPublicReferenceDataManagementRetrieveOutputModelPublicReferenceDataManagementRetrieveActionRecordControlRecordPortfolioAnalysis getControlRecordPortfolioAnalysis() {
+    return controlRecordPortfolioAnalysis;
+  }
+
+  public void setControlRecordPortfolioAnalysis(SDPublicReferenceDataManagementRetrieveOutputModelPublicReferenceDataManagementRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis) {
+    this.controlRecordPortfolioAnalysis = controlRecordPortfolioAnalysis;
+  }
+
+
+}
+

@@ -1,0 +1,21 @@
+{
+  "publicReferenceDataManagementConfigurationActionTaskReference" : "SCATR765419",
+  "publicReferenceDataManagementServiceConfigurationRecord" : {
+    "publicReferenceDataManagementServiceConfigurationSettingDescription" : "publicReferenceDataManagementServiceConfigurationSettingDescription",
+    "publicReferenceDataManagementServiceAgreement" : {
+      "publicReferenceDataManagementServiceAgreementReference" : "721156",
+      "publicReferenceDataManagementServiceAgreementTermsandConditions" : "publicReferenceDataManagementServiceAgreementTermsandConditions",
+      "publicReferenceDataManagementServiceUserReference" : "733696"
+    },
+    "publicReferenceDataManagementServiceStatus" : "publicReferenceDataManagementServiceStatus",
+    "publicReferenceDataManagementServiceConfigurationSetup" : {
+      "publicReferenceDataManagementServiceConfigurationParameter" : "publicReferenceDataManagementServiceConfigurationParameter"
+    },
+    "publicReferenceDataManagementServiceSubscription" : {
+      "publicReferenceDataManagementServiceSubscriberReference" : "756221",
+      "publicReferenceDataManagementServiceSubscriberAccessProfile" : "publicReferenceDataManagementServiceSubscriberAccessProfile"
+    }
+  },
+  "publicReferenceDataManagementConfigurationActionTaskRecord" : {},
+  "publicReferenceDataManagementServicingSessionStatus" : "publicReferenceDataManagementServicingSessionStatus"
+}

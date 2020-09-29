@@ -1,0 +1,99 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.SDPublicReferenceDataManagementConfigureInputModelPublicReferenceDataManagementServiceConfigurationRecordPublicReferenceDataManagementServiceAgreement;
+import org.bian.dto.SDPublicReferenceDataManagementConfigureInputModelPublicReferenceDataManagementServiceConfigurationRecordPublicReferenceDataManagementServiceConfigurationSetup;
+import org.bian.dto.SDPublicReferenceDataManagementConfigureInputModelPublicReferenceDataManagementServiceConfigurationRecordPublicReferenceDataManagementServiceSubscription;
+
+import javax.validation.Valid;
+  
+/**
+ * SDPublicReferenceDataManagementConfigureInputModelPublicReferenceDataManagementServiceConfigurationRecord
+ */
+public class SDPublicReferenceDataManagementConfigureInputModelPublicReferenceDataManagementServiceConfigurationRecord   {
+  private String publicReferenceDataManagementServiceConfigurationSettingReference = null;
+
+  private String publicReferenceDataManagementServiceConfigurationSettingType = null;
+
+  private SDPublicReferenceDataManagementConfigureInputModelPublicReferenceDataManagementServiceConfigurationRecordPublicReferenceDataManagementServiceConfigurationSetup publicReferenceDataManagementServiceConfigurationSetup = null;
+
+  private SDPublicReferenceDataManagementConfigureInputModelPublicReferenceDataManagementServiceConfigurationRecordPublicReferenceDataManagementServiceSubscription publicReferenceDataManagementServiceSubscription = null;
+
+  private SDPublicReferenceDataManagementConfigureInputModelPublicReferenceDataManagementServiceConfigurationRecordPublicReferenceDataManagementServiceAgreement publicReferenceDataManagementServiceAgreement = null;
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::ISO20022andUNCEFACT::Identifier  general-info: Refers to the service configuration parameter for the service 
+   * @return publicReferenceDataManagementServiceConfigurationSettingReference
+  **/
+
+  public String getPublicReferenceDataManagementServiceConfigurationSettingReference() {
+    return publicReferenceDataManagementServiceConfigurationSettingReference;
+  }
+
+  public void setPublicReferenceDataManagementServiceConfigurationSettingReference(String publicReferenceDataManagementServiceConfigurationSettingReference) {
+    this.publicReferenceDataManagementServiceConfigurationSettingReference = publicReferenceDataManagementServiceConfigurationSettingReference;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Text  general-info: The type of service configuration parameter 
+   * @return publicReferenceDataManagementServiceConfigurationSettingType
+  **/
+
+  public String getPublicReferenceDataManagementServiceConfigurationSettingType() {
+    return publicReferenceDataManagementServiceConfigurationSettingType;
+  }
+
+  public void setPublicReferenceDataManagementServiceConfigurationSettingType(String publicReferenceDataManagementServiceConfigurationSettingType) {
+    this.publicReferenceDataManagementServiceConfigurationSettingType = publicReferenceDataManagementServiceConfigurationSettingType;
+  }
+
+
+  /**
+   * Get publicReferenceDataManagementServiceConfigurationSetup
+   * @return publicReferenceDataManagementServiceConfigurationSetup
+  **/
+
+  public SDPublicReferenceDataManagementConfigureInputModelPublicReferenceDataManagementServiceConfigurationRecordPublicReferenceDataManagementServiceConfigurationSetup getPublicReferenceDataManagementServiceConfigurationSetup() {
+    return publicReferenceDataManagementServiceConfigurationSetup;
+  }
+
+  public void setPublicReferenceDataManagementServiceConfigurationSetup(SDPublicReferenceDataManagementConfigureInputModelPublicReferenceDataManagementServiceConfigurationRecordPublicReferenceDataManagementServiceConfigurationSetup publicReferenceDataManagementServiceConfigurationSetup) {
+    this.publicReferenceDataManagementServiceConfigurationSetup = publicReferenceDataManagementServiceConfigurationSetup;
+  }
+
+
+  /**
+   * Get publicReferenceDataManagementServiceSubscription
+   * @return publicReferenceDataManagementServiceSubscription
+  **/
+
+  public SDPublicReferenceDataManagementConfigureInputModelPublicReferenceDataManagementServiceConfigurationRecordPublicReferenceDataManagementServiceSubscription getPublicReferenceDataManagementServiceSubscription() {
+    return publicReferenceDataManagementServiceSubscription;
+  }
+
+  public void setPublicReferenceDataManagementServiceSubscription(SDPublicReferenceDataManagementConfigureInputModelPublicReferenceDataManagementServiceConfigurationRecordPublicReferenceDataManagementServiceSubscription publicReferenceDataManagementServiceSubscription) {
+    this.publicReferenceDataManagementServiceSubscription = publicReferenceDataManagementServiceSubscription;
+  }
+
+
+  /**
+   * Get publicReferenceDataManagementServiceAgreement
+   * @return publicReferenceDataManagementServiceAgreement
+  **/
+
+  public SDPublicReferenceDataManagementConfigureInputModelPublicReferenceDataManagementServiceConfigurationRecordPublicReferenceDataManagementServiceAgreement getPublicReferenceDataManagementServiceAgreement() {
+    return publicReferenceDataManagementServiceAgreement;
+  }
+
+  public void setPublicReferenceDataManagementServiceAgreement(SDPublicReferenceDataManagementConfigureInputModelPublicReferenceDataManagementServiceConfigurationRecordPublicReferenceDataManagementServiceAgreement publicReferenceDataManagementServiceAgreement) {
+    this.publicReferenceDataManagementServiceAgreement = publicReferenceDataManagementServiceAgreement;
+  }
+
+
+}
+

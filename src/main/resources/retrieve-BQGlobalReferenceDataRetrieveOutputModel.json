@@ -1,0 +1,25 @@
+{
+  "globalReferenceDataRetrieveActionTaskReference" : "GRDRATR727825",
+  "globalReferenceDataInstanceReport" : {
+    "globalReferenceDataInstanceReport" : {},
+    "globalReferenceDataInstanceReportParameters" : "globalReferenceDataInstanceReportParameters",
+    "globalReferenceDataInstanceReportType" : "globalReferenceDataInstanceReportType",
+    "globalReferenceDataInstanceReportRecord" : {}
+  },
+  "externalReferenceData" : "externalReferenceData",
+  "globalReferenceDataRetrieveActionTaskRecord" : {},
+  "externalReferenceDataServiceType" : "externalReferenceDataServiceType",
+  "globalReferenceDataRetrieveActionResponse" : "globalReferenceDataRetrieveActionResponse",
+  "externalReferenceDataServiceDescription" : "externalReferenceDataServiceDescription",
+  "globalReferenceDataInstanceAnalysis" : {
+    "globalReferenceDataInstanceAnalysisParameters" : "globalReferenceDataInstanceAnalysisParameters",
+    "globalReferenceDataInstanceAnalysisReportType" : "globalReferenceDataInstanceAnalysisReportType",
+    "globalReferenceDataInstanceAnalysisReport" : {},
+    "globalReferenceDataInstanceAnalysisRecord" : {}
+  },
+  "globalReferenceDataVersionNumber" : "globalReferenceDataVersionNumber",
+  "globalReferenceDataPreconditions" : "globalReferenceDataPreconditions",
+  "globalReferenceDataSpecificationSchedule" : "globalReferenceDataSpecificationSchedule",
+  "externalReferenceDataServiceInputsandOuputs" : "externalReferenceDataServiceInputsandOuputs",
+  "externalReferenceDataServiceWorkProduct" : "externalReferenceDataServiceWorkProduct"
+}
